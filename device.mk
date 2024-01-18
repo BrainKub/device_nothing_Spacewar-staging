@@ -228,8 +228,7 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.3-service.nothing \
-    libudfpshandler
+    android.hardware.biometrics.fingerprint-service.nothing
 
 # Gatekeeper
 PRODUCT_PACKAGES += \
