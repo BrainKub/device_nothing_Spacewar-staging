@@ -806,7 +806,6 @@ vendor/etc/init/android.hardware.gnss@2.1-service-qti.rc
 vendor/etc/seccomp_policy/gnss@2.0-base.policy
 vendor/etc/seccomp_policy/gnss@2.0-xtra-daemon.policy
 vendor/etc/seccomp_policy/gnss@2.0-xtwifi-client.policy
-vendor/etc/vintf/manifest/android.hardware.gnss@2.1-service-qti.xml
 vendor/lib/hw/android.hardware.gnss@2.1-impl-qti.so
 vendor/lib/libbatching.so
 vendor/lib/libgeofencing.so
